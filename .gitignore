@@ -1,3 +1,5 @@
 .idea/
 Data
 .ipynb_checkpoints
+*.jpeg
+.DS_Store
